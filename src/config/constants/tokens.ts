@@ -1317,6 +1317,32 @@ const tokens = {
     decimals: 8,
     projectLink: 'https://www.btcst.finance/',
   },
-}
-
+  SafeswapToken: {
+    symbol: 'SWAP', 
+    address: {
+      56: '0xe56a473043eaab7947c0a2408cea623074500ee3',
+      97: '',
+    }, 
+    decimals: 18,
+    projectLink: 'https://www.safeswap.online/#/swap',
+    },
+} 
 export default tokens
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+
+
